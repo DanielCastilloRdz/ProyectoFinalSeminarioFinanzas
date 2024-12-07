@@ -1,10 +1,8 @@
 streamlit
 yfinance
-pandas 
-plotly.graph_objects
-plotly.express
+pandas
+plotly
 numpy
-datetime
-matplotlib.pyplot
-scipy.optimize
-st_aggrid
+scipy
+matplotlib
+st-aggrid
