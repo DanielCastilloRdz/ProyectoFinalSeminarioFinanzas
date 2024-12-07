@@ -2,6 +2,5 @@ yfinance
 pandas
 plotly
 numpy
-scipy
 matplotlib
 st-aggrid
