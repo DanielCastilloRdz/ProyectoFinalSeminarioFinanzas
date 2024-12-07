@@ -1,0 +1,10 @@
+streamlit
+yfinance
+pandas 
+plotly.graph_objects
+plotly.express
+numpy
+datetime
+matplotlib.pyplot
+scipy.optimize
+st_aggrid
